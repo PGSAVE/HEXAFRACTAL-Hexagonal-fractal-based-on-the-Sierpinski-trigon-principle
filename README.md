@@ -7,4 +7,5 @@ The fractal is built on the principle of the Sierpinski trigon, but with some mo
 
 500.000.000 iterations 45000x45000 pix 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/719f7687-5327-4173-b27f-c7f7ad897afe)
+
